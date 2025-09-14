@@ -80,7 +80,7 @@ const Header = () => {
         <div data-aos="zoom-out" className="w-full bg-mine-shaft-950 px-6 text-white h-20 flex justify-between items-center font-['poppins']">
             <div onClick={() => navigate("/")} className="flex gap-1 cursor-pointer items-center text-ocean-blue-400">
                 <IconBriefcase className="h-8 w-8" stroke={2.5} />
-                <div className=" xs-mx:hidden text-3xl font-semibold">JobPortal</div>
+                <div className=" xs-mx:hidden text-3xl font-semibold">JobTank</div>
             </div>
             <NavLinks />
             <div className="flex gap-3 items-center">

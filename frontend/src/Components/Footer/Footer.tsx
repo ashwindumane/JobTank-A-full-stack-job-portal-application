@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="pt-20 pb-5 bg-mine-shaft-950 p-4 flex flex-col items-center justify-center text-center gap-4">
                 <div className="flex gap-1 items-center text-ocean-blue-400 justify-center">
                     <IconBriefcase className="h-6 w-6" stroke={2.5} />
-                    <div className="text-xl font-semibold">JobPortal</div>
+                    <div className="text-xl font-semibold">JobTank</div>
                 </div>
                 <div className="text-sm text-mine-shaft-300 max-w-md">
                     Efficient Job portal developed with modern technologies.
