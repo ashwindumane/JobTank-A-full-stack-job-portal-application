@@ -1,8 +1,6 @@
-# 🚀 JobPortal - Modern Job Board Platform
+# 🚀 JobTank - Modern Job Board Platform
 
 A full-stack job portal application built with Spring Boot, React, and MongoDB. Features AI-powered job description generation, real-time notifications, and a modern user interface. Leverages Docker for containerization, Redis for caching, Kafka for message streaming, and Spring Security for robust authentication and authorization.
-
-[![Watch the video](https://img.youtube.com/vi/QFpzLxw5aZo/0.jpg)](https://www.youtube.com/watch?v=QFpzLxw5aZo)
 
 ## 🛠 Built With
 
@@ -38,19 +36,6 @@ A full-stack job portal application built with Spring Boot, React, and MongoDB. 
 ![Git](https://img.shields.io/badge/Git-2.30+-orange?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1.80-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2023.1-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [Architecture](#-architecture)
-- [Prerequisites](#-prerequisites)
-- [Quick Start](#-quick-start)
-- [Environment Setup](#-environment-setup)
-
-- [API Documentation](#-api-documentation)
-- [Project Structure](#-project-structure)
-
 
 ## ✨ Features
 
